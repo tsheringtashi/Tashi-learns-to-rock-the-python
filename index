@@ -7,9 +7,15 @@
 <body>
 
 
+<<<<<<< HEAD
     <h1>Home</h1>
     <h2>Revision Two</h2>
     <p>The Hat of Elephant is where lost</p>
+=======
+    <h1>WOW</h1>
+    <h2>Revision Three</h2>
+    <p>ManCity vs Newcastle 2:1</p>
+>>>>>>> app01
 
 </body>
 </html>
