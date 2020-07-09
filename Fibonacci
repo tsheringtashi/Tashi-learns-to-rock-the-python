@@ -1,0 +1,13 @@
+Fibonacci
+
+
+def gen_fibo_list(n):
+
+    a_list =[]
+    a = b = 1
+    while a<n:
+        a_list.append(n)
+        a, b = a+b, a
+
+    return a_list
+
